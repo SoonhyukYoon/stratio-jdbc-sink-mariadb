@@ -1,10 +1,9 @@
 /*------------------------------------------------------------------------------
- * PROJ   : LG U+ IoT Platform 프로젝트
+ * PROJ   : stratio-jdbc-sink-mariadb
  * NAME   : ConnectionManager.java
  * DESC   : DBCP Connection Pool Manager
  * Author : 윤순혁
  * VER    : 1.0
- * Copyright 2014 LG CNS All rights reserved
  *------------------------------------------------------------------------------
  *                  변         경         사         항                       
  *------------------------------------------------------------------------------
